@@ -13,8 +13,13 @@ git status
 Mostra o historico da 'branch'
 gitlog
 
+
 Ele cria uma nova branch
 git checkout -b <nome_branch>
 
 Mudando de "branch"
 git checkout <nome_branch> 
+
+Ele cria uma nova "branch"
+git checkout -b <nome_branch>
+
